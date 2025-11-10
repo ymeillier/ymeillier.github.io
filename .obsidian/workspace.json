@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-10-test-post.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-10-test-post"
+              "title": "README"
             }
           }
         ],
@@ -198,6 +198,9 @@
   },
   "active": "70698ef3d625ef24",
   "lastOpenFiles": [
+    "_posts/2025-11-10-test-post.md",
+    "about.md",
+    "README.md",
     "vendor/bundle/ruby/2.6.0/specifications/listen-3.9.0.gemspec",
     "vendor/bundle/ruby/2.6.0/bin/listen",
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/lib/listen/version.rb",
@@ -208,7 +211,6 @@
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/lib/listen/record/symlink_detector.rb",
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/lib/listen/record/entry.rb",
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/lib/listen/record",
-    "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/lib/listen/record.rb",
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/README.md",
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/CONTRIBUTING.md",
     "vendor/bundle/ruby/2.6.0/gems/listen-3.9.0/CHANGELOG.md",
@@ -232,8 +234,6 @@
     "vendor/bundle/ruby/2.6.0/gems/unicode-display_width-2.6.0/README.md",
     "vendor/bundle/ruby/2.6.0/gems/unicode-display_width-2.6.0/CHANGELOG.md",
     "vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/docs/GettingStarted.md",
-    "vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/docs/DocumentationGuidesIndex.md",
-    "vendor/bundle/ruby/2.6.0/gems/safe_yaml-1.0.5/README.md",
     "vendor/bundle/ruby/2.6.0/gems/compass-0.12.2/test/fixtures/stylesheets/relative/assets/images/testing.png",
     "vendor/bundle/ruby/2.6.0/gems/compass-0.12.2/test/fixtures/stylesheets/image_urls/images/grid.png",
     "vendor/bundle/ruby/2.6.0/gems/compass-0.12.2/test/fixtures/stylesheets/compass/images/flag-s4798b5a210.png",

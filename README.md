@@ -4,6 +4,9 @@ Repo for my personal [blog](https://ymeillier.github.io). Why blogging? Some hin
 
 Originated from [Arthur Chiaol](http://github.com/arthurchiao).
 
+See also
+https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
+
 # 2. Use this theme/template
 
 1. Create your own repo on github
