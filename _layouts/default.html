@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+
+  <div class="content">
+      <div class="markdown-body">
+          {{ content }}
+
+          {% include disqus.html %}
+      </div>
+  </div>
+
+  {% include footer.html %}
+  {% include scripts.html %}
+
+</body>
+</html>

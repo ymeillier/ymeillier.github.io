@@ -1,0 +1,23 @@
+/*
+  This snippet overrides the default fixed 'readable line length' 
+  width (usually 700px or similar) and makes it a percentage 
+  of the available space.
+*/
+
+body {
+  /* This is the global variable for the note content width */
+  --file-line-width: 95%; /* Use 95% or 100% for full width */
+}
+
+/* Ensure the editor and preview respect the new width */
+.markdown-source-view.is-readable-line-width .CodeMirror,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: var(--file-line-width) !important;
+  width: var(--file-line-width) !important;
+}
+
+/* Optional: Center the text when using less than 100% */
+.markdown-source-view.is-readable-line-length,
+.markdown-preview-view.is-readable-line-length {
+  margin: 0 auto;
+}
